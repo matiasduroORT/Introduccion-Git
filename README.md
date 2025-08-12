@@ -1,5 +1,5 @@
 ## Clase 1
 
-# Profe: Matias
+# Profe: Matias duro
 
-# Alumno: Matias
+# Alumno: Nicolás Ruiz 
